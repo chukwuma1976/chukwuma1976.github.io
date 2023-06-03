@@ -1847,7 +1847,7 @@ input, select, textarea {
 	form select,
 	form textarea {
 		position: relative;
-		appearance: auto;
+		appearance: none;
 		-webkit-appearance: none;
 		display: block;
 		border: 0;
