@@ -1748,7 +1748,10 @@ input, select, textarea {
 		display: inline-block;
 		border: 0;
 	}
-
+		.image-skills {
+			display: block;
+			width: 200px;
+	}
 		.image img {
 			display: block;
 			width: 100%;
