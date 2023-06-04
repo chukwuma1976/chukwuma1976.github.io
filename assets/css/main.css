@@ -1755,8 +1755,8 @@ input, select, textarea {
 	}
 		.image-profile {
 			display: block;
-			width: 150px;
-			height: 150px;
+			width: 250px;
+			height: auto;
 	}
 		.image img {
 			display: block;
