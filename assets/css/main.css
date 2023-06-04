@@ -1753,6 +1753,11 @@ input, select, textarea {
 			width: 150px;
 			height: 150px;
 	}
+		.image-profile {
+			display: block;
+			width: 150px;
+			height: 150px;
+	}
 		.image img {
 			display: block;
 			width: 100%;
