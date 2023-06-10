@@ -1804,7 +1804,7 @@ input, select, textarea {
 			margin: auto;
 			width: 300px;
 			height: auto;
-			border-radius: 10px
+			border-radius: 50%
 		}
 
 /* List */
