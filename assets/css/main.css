@@ -1756,7 +1756,7 @@ input, select, textarea {
 		.image-projects {
 			display: block;
 			width: 250px;
-			height: 250px;
+			height: 300px;
 			object-fit: cover;
 	}
 		.image img {
