@@ -1799,6 +1799,12 @@ input, select, textarea {
 				margin: 0 auto;
 				width: auto;
 			}
+		.profile {
+			display: block;
+			margin: auto;
+			width: 500px;
+			border-radius: 10px
+		}
 
 /* List */
 
