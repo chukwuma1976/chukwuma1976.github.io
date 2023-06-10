@@ -1757,7 +1757,7 @@ input, select, textarea {
 			display: block;
 			width: 250px;
 			height: 250px;
-			aspect-ratio: auto;
+			object-fit: cover;
 	}
 		.image img {
 			display: block;
